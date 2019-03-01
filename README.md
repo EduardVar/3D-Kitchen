@@ -1,5 +1,5 @@
 # Try it out!
-To try out this map, you'll need Half-Life 2
+To try out this map, you'll need Half-Life 2; uses the Source engine
 
 # Steps:
 1. Navigate to your Half-Life 2 folder and go to Half-Life 2\hl2\maps
